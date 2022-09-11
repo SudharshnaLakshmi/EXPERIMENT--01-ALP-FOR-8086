@@ -1,7 +1,10 @@
 # EXPERIMENT 01 ALP FOR 8086
+
+```
 Name : Sudharshna Lakshmi S
 Roll no : 212221230110
 Date of experiment : 09-09-2022
+```
 
 ## AIM
 To Write and execute ALP on fundamental arithmetic and logical operations.
